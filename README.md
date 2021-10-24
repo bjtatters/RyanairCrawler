@@ -6,6 +6,6 @@ Chief executive Michael O’Leary has been outspoken about these resellers, desc
 
 The code allows users to input any set of flight paths and it returns the prices for two weeks, one month and four months in advance. 
 
-I managed to acheive this by locating the ryanair API call path in the companies HTML code. This API call has a standard structure, with certain consistencies for origin, destination, date, seating and so forth. By modifying the API call, and looping the process, the data for a large volume of flights can then be returned. 
+I managed to acheive this by locating the ryanair API call path in the companies HTML code. This API call has a standard structure, with certain consistencies for origin, destination, date, seating and so forth. By modifying the API call, and looping the process, the data for a large volume of flights can then be returned by understanding the structure of the returned API data.
 
 For practical use, please input the 3 digit airport codes for each flight path of interest into the flight_dict variable. 
