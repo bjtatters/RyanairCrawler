@@ -1,8 +1,8 @@
 # RyanairCrawler
 
-_This code is an attempt to (legally) web-scrape airline pricing data from the Ryanair website. _
+_This code is an attempt to (legally) web-scrape airline pricing data from the Ryanair website._
 
-**Pesky screenscrapers... **
+**Pesky screenscrapers...**
 
 Screenscrapers now account for about 20% of Ryanair’s total ticket sales – double the amount they did before the Covid pandemic. Chief executive Michael O’Leary has been outspoken about these resellers, describing them as a “pain in the ass” and saying he “can’t understand” why the European Commission and regulators won’t take action against them. 
 
